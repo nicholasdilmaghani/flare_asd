@@ -1,0 +1,7 @@
+FLARE
+*.gz
+*.txt
+*.tsv
+*.pdf
+
+models
